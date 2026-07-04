@@ -2,11 +2,11 @@
   {
     "model": "RM29C19",
     "series": "RECON",
-    "discipline": "Cross Country",
+    "discipline": "Cross Country / All Mountain",
     "rimSize": "29\"",
-    "internalWidth": 25,
+    "internalWidth": 24,
     "externalWidth": 30,
-    "depth": 20,
+    "depth": 25,
     "price": 99,
     "stock": 14,
     "image": "/images/recon.svg"
@@ -27,10 +27,10 @@
     "model": "RSNOW05",
     "series": "DRIFT",
     "discipline": "Snow / Fat",
-    "rimSize": "26\"",
+    "rimSize": "27.5\"",
     "internalWidth": 70,
     "externalWidth": 75,
-    "depth": 20,
+    "depth": 30,
     "price": 169,
     "stock": 4,
     "image": "/images/drift.svg"
@@ -42,7 +42,7 @@
     "rimSize": "29\"",
     "internalWidth": 25,
     "externalWidth": 30,
-    "depth": 21,
+    "depth": 23,
     "price": 145,
     "stock": 10,
     "image": "/images/recon-pro.svg"
@@ -65,8 +65,8 @@
     "discipline": "Cross Country",
     "rimSize": "29\"",
     "internalWidth": 30,
-    "externalWidth": 34.6,
-    "depth": 24,
+    "externalWidth": 35.6,
+    "depth": 22,
     "price": 159,
     "stock": 8,
     "image": "/images/recon-pro.svg"
@@ -134,11 +134,11 @@
   {
     "model": "AM930S",
     "series": "RECON PRO",
-    "discipline": "All Mountain",
+    "discipline": "All Mountain / XC",
     "rimSize": "29\"",
     "internalWidth": 30,
-    "externalWidth": 36,
-    "depth": 25,
+    "externalWidth": 37,
+    "depth": 21,
     "price": 165,
     "stock": 7,
     "image": "/images/recon-pro.svg"
@@ -149,8 +149,8 @@
     "discipline": "E-MTB / Enduro",
     "rimSize": "29\"",
     "internalWidth": 35,
-    "externalWidth": 41,
-    "depth": 25,
+    "externalWidth": 43,
+    "depth": 25.6,
     "price": 185,
     "stock": 4,
     "image": "/images/recon-pro.svg"
@@ -270,7 +270,7 @@
     "rimSize": "29\"",
     "internalWidth": 32,
     "externalWidth": 39.2,
-    "depth": 24,
+    "depth": 23,
     "price": 219,
     "stock": 6,
     "image": "/images/helios.svg"
@@ -282,7 +282,7 @@
     "rimSize": "29\"",
     "internalWidth": 32,
     "externalWidth": 40.6,
-    "depth": 24,
+    "depth": 23,
     "price": 239,
     "stock": 3,
     "image": "/images/helios.svg"
