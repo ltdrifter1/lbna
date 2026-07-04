@@ -9,7 +9,7 @@
     "depth": 25,
     "price": 99,
     "stock": 14,
-    "image": "/images/recon.svg"
+    "image": "/images/products/rm29c19.jpg"
   },
   {
     "model": "FAT680",
@@ -21,7 +21,7 @@
     "depth": 20,
     "price": 186,
     "stock": 6,
-    "image": "/images/drift.svg"
+    "image": "/images/products/fat680.jpg"
   },
   {
     "model": "RSNOW05",
@@ -33,7 +33,7 @@
     "depth": 30,
     "price": 169,
     "stock": 4,
-    "image": "/images/drift.svg"
+    "image": "/images/products/rsnow05.jpg"
   },
   {
     "model": "XC925",
@@ -45,7 +45,7 @@
     "depth": 23,
     "price": 145,
     "stock": 10,
-    "image": "/images/recon-pro.svg"
+    "image": "/images/products/xc925.jpg"
   },
   {
     "model": "XC930",
@@ -57,7 +57,7 @@
     "depth": 22,
     "price": 149,
     "stock": 12,
-    "image": "/images/recon-pro.svg"
+    "image": "/images/products/xc930.jpg"
   },
   {
     "model": "XC930-Plus",
@@ -69,7 +69,7 @@
     "depth": 22,
     "price": 159,
     "stock": 8,
-    "image": "/images/recon-pro.svg"
+    "image": "/images/products/xc930-plus.jpg"
   },
   {
     "model": "AM927",
@@ -81,7 +81,7 @@
     "depth": 24,
     "price": 155,
     "stock": 9,
-    "image": "/images/recon-pro.svg"
+    "image": "/images/products/am927.jpg"
   },
   {
     "model": "AM930",
@@ -93,7 +93,7 @@
     "depth": 25,
     "price": 159,
     "stock": 15,
-    "image": "/images/recon-pro.svg"
+    "image": "/images/products/am930.jpg"
   },
   {
     "model": "AM730",
@@ -105,7 +105,7 @@
     "depth": 25,
     "price": 159,
     "stock": 5,
-    "image": "/images/recon-pro.svg"
+    "image": "/images/products/am730.jpg"
   },
   {
     "model": "EN732",
@@ -117,7 +117,7 @@
     "depth": 25,
     "price": 169,
     "stock": 3,
-    "image": "/images/recon-pro.svg"
+    "image": "/images/products/en732.jpg"
   },
   {
     "model": "EN932",
@@ -129,7 +129,7 @@
     "depth": 25,
     "price": 169,
     "stock": 0,
-    "image": "/images/recon-pro.svg"
+    "image": "/images/products/en932.jpg"
   },
   {
     "model": "AM930S",
@@ -141,7 +141,7 @@
     "depth": 21,
     "price": 165,
     "stock": 7,
-    "image": "/images/recon-pro.svg"
+    "image": "/images/products/am930s.jpg"
   },
   {
     "model": "EH935S",
@@ -153,7 +153,7 @@
     "depth": 25.6,
     "price": 185,
     "stock": 4,
-    "image": "/images/recon-pro.svg"
+    "image": "/images/products/eh935s.jpg"
   },
   {
     "model": "AR36 Disc",
@@ -165,7 +165,7 @@
     "depth": 36,
     "price": 154,
     "stock": 20,
-    "image": "/images/falcon.svg"
+    "image": "/images/products/ar36-disc.jpg"
   },
   {
     "model": "AR46 Disc",
@@ -177,7 +177,7 @@
     "depth": 46,
     "price": 159,
     "stock": 18,
-    "image": "/images/falcon.svg"
+    "image": "/images/products/ar46-disc.jpg"
   },
   {
     "model": "AR56 Disc",
@@ -189,7 +189,7 @@
     "depth": 56,
     "price": 163,
     "stock": 11,
-    "image": "/images/falcon.svg"
+    "image": "/images/products/ar56-disc.jpg"
   },
   {
     "model": "AR375 Disc",
@@ -201,7 +201,7 @@
     "depth": 37.5,
     "price": 269,
     "stock": 9,
-    "image": "/images/falcon-pro.svg"
+    "image": "/images/products/ar375-disc.jpg"
   },
   {
     "model": "AR465 Disc",
@@ -213,7 +213,7 @@
     "depth": 46.5,
     "price": 279,
     "stock": 7,
-    "image": "/images/falcon-pro.svg"
+    "image": "/images/products/ar465-disc.jpg"
   },
   {
     "model": "WR40 Disc",
@@ -225,7 +225,7 @@
     "depth": 40,
     "price": 269,
     "stock": 6,
-    "image": "/images/falcon-pro.svg"
+    "image": "/images/products/wr40-disc.jpg"
   },
   {
     "model": "Turbo 40 Disc",
@@ -237,7 +237,7 @@
     "depth": 40,
     "price": 289,
     "stock": 8,
-    "image": "/images/falcon-pro.svg"
+    "image": "/images/products/turbo-40-disc.jpg"
   },
   {
     "model": "Turbo 50 Disc",
@@ -249,7 +249,7 @@
     "depth": 50,
     "price": 299,
     "stock": 5,
-    "image": "/images/falcon-pro.svg"
+    "image": "/images/products/turbo-50-disc.jpg"
   },
   {
     "model": "Turbo 65 Disc",
@@ -261,7 +261,7 @@
     "depth": 65,
     "price": 309,
     "stock": 0,
-    "image": "/images/falcon-pro.svg"
+    "image": "/images/products/turbo-65-disc.jpg"
   },
   {
     "model": "Helios EN932",
@@ -273,7 +273,7 @@
     "depth": 23,
     "price": 219,
     "stock": 6,
-    "image": "/images/helios.svg"
+    "image": "/images/products/helios-en932.jpg"
   },
   {
     "model": "Helios DH932",
@@ -285,6 +285,6 @@
     "depth": 23,
     "price": 239,
     "stock": 3,
-    "image": "/images/helios.svg"
+    "image": "/images/products/helios-dh932.jpg"
   }
 ]

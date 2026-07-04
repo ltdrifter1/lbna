@@ -5,7 +5,7 @@ export function Footer() {
         <div className="flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between">
           <div className="max-w-sm">
             <div className="text-base font-bold tracking-tight text-neutral-900">
-              CarbonRim Outlet
+              Light Bicycle Outlet
             </div>
             <p className="mt-2 text-sm leading-relaxed text-neutral-500">
               In-stock carbon rims from our North American warehouse. Listed
@@ -32,7 +32,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-neutral-200 pt-6 text-xs text-neutral-400">
-          © {new Date().getFullYear()} CarbonRim Outlet. Demo storefront —
+          © {new Date().getFullYear()} Light Bicycle Outlet. Demo storefront —
           specifications for reference only.
         </div>
       </div>

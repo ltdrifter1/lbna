@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useCart } from "@/lib/cart";
 
 export function Header() {
@@ -9,16 +10,17 @@ export function Header() {
   return (
     <header className="sticky top-0 z-40 border-b border-neutral-200 bg-white/95 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
-        <Link href="/" className="flex items-center gap-2">
-          <span
-            aria-hidden
-            className="inline-flex h-8 w-8 items-center justify-center rounded-full border-[3px] border-neutral-900"
-          >
-            <span className="h-2 w-2 rounded-full bg-neutral-900" />
-          </span>
-          <span className="text-lg font-bold tracking-tight text-neutral-900">
-            CarbonRim
-            <span className="font-normal text-neutral-500"> Outlet</span>
+        <Link href="/" className="flex items-center gap-3">
+          <Image
+            src="/light-bicycle-logo.svg"
+            alt="Light Bicycle"
+            width={170}
+            height={29}
+            priority
+            className="h-6 w-auto sm:h-7"
+          />
+          <span className="hidden rounded border border-neutral-300 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-neutral-500 sm:inline">
+            Outlet
           </span>
         </Link>
 
