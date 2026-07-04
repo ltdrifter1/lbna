@@ -93,3 +93,7 @@ src/
   lib/cart.tsx               # Cart context (localStorage)
 public/images/               # Per-series rim SVGs
 ```
+
+## Deployment
+
+Deployed on Vercel. The production branch is `main`.
